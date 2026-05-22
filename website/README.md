@@ -26,4 +26,3 @@ No build step, no JS, no dependencies. Fonts loaded from Google Fonts (Fraunces 
 ## Contact
 
 - Email: info@stratford.dev
-- Phone: 020 7205 4332

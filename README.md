@@ -20,4 +20,3 @@ Hosted on a Hetzner VM via [Dokploy](https://dokploy.com/), deployed from this r
 ## Contact
 
 - Email: info@stratford.dev
-- Phone: 020 7205 4332
